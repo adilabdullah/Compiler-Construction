@@ -1,0 +1,17 @@
+C1_C1_void proc
+C1_C1_void endp
+
+C2_C2_void proc
+C2_C2_void endp
+
+C1_head_void proc
+call C1_af_void, 0
+a=af
+T1=c[1]+1
+c[1]=T1
+C1_head_void endp
+
+C2_af_void proc
+T2=a+b
+C2_af_void endp
+

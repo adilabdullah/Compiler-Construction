@@ -1,0 +1,4 @@
+C1_C1_void proc
+C1_C1_void endp
+
+C2_C2_void proc

@@ -1,0 +1,39 @@
+class major
+{
+    func head()
+    {
+int q,w,e,r,t,y;
+q=w-e-r-t-y;
+int[] a;
+a[1]++;
+   }
+func a() ret void;
+}
+class a{
+func ab(int a) ;
+}
+class b
+{
+    func a()
+{
+a obj = create object(a);
+a[] obj2 = create array(a,1);
+obj2[1]=create object(a);
+obj2=create array(a,1);
+int[] te;
+te=create array(int,3);
+obj=>ab(1);
+self=>a();
+}
+    func ab()
+{
+a obj = create object(a);
+a[] obj2 = create array(a,1);
+obj2[1]=create object(a);
+obj2=create array(a,1);
+int[] te;
+te=create array(int,3);
+obj=>ab(4);
+self=>a();
+}
+}

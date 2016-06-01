@@ -1,0 +1,8 @@
+D:\BSCS\Semester 6\Compiler Construction\ProjectOO\Project\bin\Release\Project.exe
+D:\BSCS\Semester 6\Compiler Construction\ProjectOO\Project\bin\Release\Project.pdb
+D:\BSCS\Semester 6\Compiler Construction\ProjectOO\Project\obj\Release\ResolveAssemblyReference.cache
+D:\BSCS\Semester 6\Compiler Construction\ProjectOO\Project\obj\Release\Project.Form1.resources
+D:\BSCS\Semester 6\Compiler Construction\ProjectOO\Project\obj\Release\Project.Properties.Resources.resources
+D:\BSCS\Semester 6\Compiler Construction\ProjectOO\Project\obj\Release\Project.csproj.GenerateResource.Cache
+D:\BSCS\Semester 6\Compiler Construction\ProjectOO\Project\obj\Release\Project.exe
+D:\BSCS\Semester 6\Compiler Construction\ProjectOO\Project\obj\Release\Project.pdb

@@ -1,0 +1,18 @@
+D:\BSCS\Semester 6\Compiler Construction\Project\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\BSCS\Semester 6\Compiler Construction\Project\Project\obj\Debug\Project.Form1.resources
+D:\BSCS\Semester 6\Compiler Construction\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\BSCS\Semester 6\Compiler Construction\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\BSCS\Semester 6\Compiler Construction\Project\Project\bin\Debug\Project.exe
+D:\BSCS\Semester 6\Compiler Construction\Project\Project\bin\Debug\Project.pdb
+D:\BSCS\Semester 6\Compiler Construction\Project\Project\obj\Debug\Project.exe
+D:\BSCS\Semester 6\Compiler Construction\Project\Project\obj\Debug\Project.pdb
+D:\BSCS\Semester 6\Compiler Construction\ProjectOO\Project\obj\Debug\Project.exe
+D:\BSCS\Semester 6\Compiler Construction\ProjectOO\Project\obj\Debug\Project.pdb
+D:\BSCS\Semester 6\Compiler Construction\ProjectOO\Project\bin\Debug\Project.exe
+D:\BSCS\Semester 6\Compiler Construction\ProjectOO\Project\bin\Debug\Project.pdb
+D:\BSCS\Semester 6\Compiler Construction\ProjectOO\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\BSCS\Semester 6\Compiler Construction\ProjectOO\Project\obj\Debug\Project.Form1.resources
+D:\BSCS\Semester 6\Compiler Construction\ProjectOO\Project\obj\Debug\Project.Properties.Resources.resources
+D:\BSCS\Semester 6\Compiler Construction\ProjectOO\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\ProjectOO\Project\obj\Debug\Project.exe
+C:\Users\pc\Desktop\ProjectOO\Project\obj\Debug\Project.pdb

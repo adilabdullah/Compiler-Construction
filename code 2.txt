@@ -1,0 +1,14 @@
+class major
+{
+    func head()
+    {
+
+   }
+func a(int a,int b, int c) ret int;
+func a2() {
+int[] q,w,e;
+q=w;
+int t,y;
+q[1]=w[1]+a(t+t,t,y+t+y);
+}
+}
